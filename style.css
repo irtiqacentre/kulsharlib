@@ -1,7 +1,7 @@
 /* استيراد الخط العادي */
 @font-face {
   font-family: 'SakkalMajalla';
-  src: url('https://irtiqacentre.in/Fonts/Sakkal/majalla.woff') format('woff');
+  src: url('fonts/majalla.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -9,7 +9,7 @@
 /* استيراد الخط السميك */
 @font-face {
   font-family: 'SakkalMajalla';
-  src: url('https://irtiqacentre.in/Fonts/Sakkal/majallab.woff') format('woff');
+  src: url('fonts/majallab.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
